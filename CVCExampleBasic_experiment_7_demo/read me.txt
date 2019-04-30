@@ -1,0 +1,4 @@
+Version 6
+
+Particle death is apparent
+Input @ 5fps
